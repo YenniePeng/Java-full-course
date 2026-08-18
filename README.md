@@ -18,6 +18,7 @@
 | `lesson-08-banking-program` | Banking Program | 循环、方法、余额操作 |
 | `lesson-09-random-dice` | Random Dice | `Random`、循环、ASCII 图案 |
 | `lesson-10-arrays-for-each` | Arrays & Enhanced For Loop | 动态数组、普通 `for`、for-each |
+| `lesson-11-array-search` | Array Search | 遍历数组、查找元素、`break`、字符串比较 |
 
 ## 运行方式
 
