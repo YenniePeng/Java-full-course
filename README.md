@@ -19,6 +19,7 @@
 | `lesson-09-random-dice` | Random Dice | `Random`、循环、ASCII 图案 |
 | `lesson-10-arrays-for-each` | Arrays & Enhanced For Loop | 动态数组、普通 `for`、for-each |
 | `lesson-11-array-search` | Array Search | 遍历数组、查找元素、`break`、字符串比较 |
+| `lesson-12-varargs` | Varargs | 可变参数、数组遍历、求和与平均值 |
 
 ## 运行方式
 
