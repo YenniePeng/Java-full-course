@@ -21,6 +21,7 @@
 | `lesson-11-array-search` | Array Search | 遍历数组、查找元素、`break`、字符串比较 |
 | `lesson-12-varargs` | Varargs | 可变参数、数组遍历、求和与平均值 |
 | `lesson-13-2d-arrays` | 2D Arrays | 二维数组、行列索引、嵌套 for-each |
+| `lesson-14-java-quiz-game` | Java Quiz Game | 数组、二维数组、循环、条件判断与计分 |
 
 ## 运行方式
 
