@@ -20,6 +20,7 @@
 | `lesson-10-arrays-for-each` | Arrays & Enhanced For Loop | 动态数组、普通 `for`、for-each |
 | `lesson-11-array-search` | Array Search | 遍历数组、查找元素、`break`、字符串比较 |
 | `lesson-12-varargs` | Varargs | 可变参数、数组遍历、求和与平均值 |
+| `lesson-13-2d-arrays` | 2D Arrays | 二维数组、行列索引、嵌套 for-each |
 
 ## 运行方式
 
