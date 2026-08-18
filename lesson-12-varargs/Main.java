@@ -4,7 +4,7 @@ public class Main {
         // Java 会把这些参数自动打包成数组，让方法更灵活
         // int... 或 double... 中的 ... 叫作 ellipsis（省略号）
 
-//        System.out.println(add(1, 2, 3));
+        System.out.println(add(1, 2, 3));
         System.out.println(average(1, 2, 3));
     }
 
