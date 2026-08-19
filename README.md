@@ -26,6 +26,7 @@
 | `lesson-16-java-slot-machine` | Java Slot Machine | 方法、随机数组、循环、余额与赔率计算 |
 | `lesson-17-objects-and-classes` | Objects & Classes | 对象、类、属性、方法与引用类型 |
 | `lesson-18-constructors` | Constructors | 构造方法、参数、初始值与 `this` |
+| `lesson-19-overloaded-constructors` | Overloaded Constructors | 构造方法重载与多种对象初始化方式 |
 
 ## 运行方式
 
