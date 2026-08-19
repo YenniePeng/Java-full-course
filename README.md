@@ -30,6 +30,7 @@
 | `lesson-20-array-of-objects` | Array of Objects | 对象数组、引用、for-each 与修改对象属性 |
 | `lesson-21-static-members` | Static Members | 类变量、类方法与对象间共享数据 |
 | `lesson-22-inheritance` | Inheritance | 父类、子类、继承属性与继承方法 |
+| `lesson-23-super-keyword` | Super Keyword | 调用父类构造方法与初始化继承属性 |
 
 ## 运行方式
 
