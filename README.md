@@ -27,6 +27,7 @@
 | `lesson-17-objects-and-classes` | Objects & Classes | 对象、类、属性、方法与引用类型 |
 | `lesson-18-constructors` | Constructors | 构造方法、参数、初始值与 `this` |
 | `lesson-19-overloaded-constructors` | Overloaded Constructors | 构造方法重载与多种对象初始化方式 |
+| `lesson-20-array-of-objects` | Array of Objects | 对象数组、引用、for-each 与修改对象属性 |
 
 ## 运行方式
 
