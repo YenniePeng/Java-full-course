@@ -28,6 +28,7 @@
 | `lesson-18-constructors` | Constructors | 构造方法、参数、初始值与 `this` |
 | `lesson-19-overloaded-constructors` | Overloaded Constructors | 构造方法重载与多种对象初始化方式 |
 | `lesson-20-array-of-objects` | Array of Objects | 对象数组、引用、for-each 与修改对象属性 |
+| `lesson-21-static-members` | Static Members | 类变量、类方法与对象间共享数据 |
 
 ## 运行方式
 
