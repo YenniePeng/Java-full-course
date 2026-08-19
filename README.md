@@ -25,6 +25,7 @@
 | `lesson-15-rock-paper-scissors` | Rock Paper Scissors | `do-while`、`continue`、随机选择与胜负判断 |
 | `lesson-16-java-slot-machine` | Java Slot Machine | 方法、随机数组、循环、余额与赔率计算 |
 | `lesson-17-objects-and-classes` | Objects & Classes | 对象、类、属性、方法与引用类型 |
+| `lesson-18-constructors` | Constructors | 构造方法、参数、初始值与 `this` |
 
 ## 运行方式
 
