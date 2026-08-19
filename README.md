@@ -31,6 +31,7 @@
 | `lesson-21-static-members` | Static Members | 类变量、类方法与对象间共享数据 |
 | `lesson-22-inheritance` | Inheritance | 父类、子类、继承属性与继承方法 |
 | `lesson-23-super-keyword` | Super Keyword | 调用父类构造方法与初始化继承属性 |
+| `lesson-24-method-overriding` | Method Overriding | 继承方法、`@Override` 与子类特定实现 |
 
 ## 运行方式
 
