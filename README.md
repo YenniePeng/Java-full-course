@@ -33,6 +33,7 @@
 | `lesson-23-super-keyword` | Super Keyword | 调用父类构造方法与初始化继承属性 |
 | `lesson-24-method-overriding` | Method Overriding | 继承方法、`@Override` 与子类特定实现 |
 | `lesson-25-tostring-method` | `toString()` Method | 对象的字符串表示与方法重写 |
+| `lesson-26-abstraction` | Abstraction | 抽象类、抽象方法与具体方法 |
 
 ## 运行方式
 
