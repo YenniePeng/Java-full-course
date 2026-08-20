@@ -38,6 +38,7 @@
 | `lesson-28-polymorphism` | Polymorphism | 共同父类、对象数组与不同方法实现 |
 | `lesson-29-runtime-polymorphism` | Runtime Polymorphism | 运行时对象类型、方法重写与用户选择 |
 | `lesson-30-getters-and-setters` | Getters & Setters | 私有字段、数据访问与修改规则 |
+| `lesson-31-aggregation` | Aggregation | `has-a` 关系、对象数组与独立生命周期 |
 
 ## 运行方式
 
