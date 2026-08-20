@@ -39,6 +39,7 @@
 | `lesson-29-runtime-polymorphism` | Runtime Polymorphism | 运行时对象类型、方法重写与用户选择 |
 | `lesson-30-getters-and-setters` | Getters & Setters | 私有字段、数据访问与修改规则 |
 | `lesson-31-aggregation` | Aggregation | `has-a` 关系、对象数组与独立生命周期 |
+| `lesson-32-composition` | Composition | `part-of` 关系与组合对象的创建 |
 
 ## 运行方式
 
