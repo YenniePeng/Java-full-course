@@ -36,6 +36,7 @@
 | `lesson-26-abstraction` | Abstraction | 抽象类、抽象方法与具体方法 |
 | `lesson-27-interfaces` | Interfaces | 接口、`implements` 与多接口实现 |
 | `lesson-28-polymorphism` | Polymorphism | 共同父类、对象数组与不同方法实现 |
+| `lesson-29-runtime-polymorphism` | Runtime Polymorphism | 运行时对象类型、方法重写与用户选择 |
 
 ## 运行方式
 
