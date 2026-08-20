@@ -40,6 +40,7 @@
 | `lesson-30-getters-and-setters` | Getters & Setters | 私有字段、数据访问与修改规则 |
 | `lesson-31-aggregation` | Aggregation | `has-a` 关系、对象数组与独立生命周期 |
 | `lesson-32-composition` | Composition | `part-of` 关系与组合对象的创建 |
+| `lesson-33-wrapper-classes` | Wrapper Classes | 包装类、自动装箱、自动拆箱与类型转换 |
 
 ## 运行方式
 
