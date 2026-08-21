@@ -47,6 +47,7 @@
 | `lesson-37-file-reading` | File Reading | `BufferedReader`、`FileReader` 与逐行读取 |
 | `lesson-38-audio-player` | Audio Player | Java Sound、`Clip` 与播放控制菜单 |
 | `lesson-39-hangman-game` | Hangman Game | 文件词库、随机单词、字符列表与游戏循环 |
+| `lesson-40-date-and-time` | Date & Time | 本地日期时间、UTC、格式化与时间比较 |
 
 ## 运行方式
 
