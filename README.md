@@ -41,6 +41,7 @@
 | `lesson-31-aggregation` | Aggregation | `has-a` 关系、对象数组与独立生命周期 |
 | `lesson-32-composition` | Composition | `part-of` 关系与组合对象的创建 |
 | `lesson-33-wrapper-classes` | Wrapper Classes | 包装类、自动装箱、自动拆箱与类型转换 |
+| `lesson-34-arraylist` | ArrayList | 动态列表、增删改查、排序与用户输入 |
 
 ## 运行方式
 
