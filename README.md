@@ -44,6 +44,7 @@
 | `lesson-34-arraylist` | ArrayList | 动态列表、增删改查、排序与用户输入 |
 | `lesson-35-exception-handling` | Exception Handling | `try`、`catch`、`finally` 与输入异常 |
 | `lesson-36-file-writing` | File Writing | `FileWriter`、文本块、相对路径与 I/O 异常 |
+| `lesson-37-file-reading` | File Reading | `BufferedReader`、`FileReader` 与逐行读取 |
 
 ## 运行方式
 
