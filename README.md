@@ -43,6 +43,7 @@
 | `lesson-33-wrapper-classes` | Wrapper Classes | 包装类、自动装箱、自动拆箱与类型转换 |
 | `lesson-34-arraylist` | ArrayList | 动态列表、增删改查、排序与用户输入 |
 | `lesson-35-exception-handling` | Exception Handling | `try`、`catch`、`finally` 与输入异常 |
+| `lesson-36-file-writing` | File Writing | `FileWriter`、文本块、相对路径与 I/O 异常 |
 
 ## 运行方式
 
