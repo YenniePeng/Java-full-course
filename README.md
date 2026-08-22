@@ -54,6 +54,7 @@
 | `lesson-44-generics` | Generics | 泛型类、泛型方法、类型限制与通配符 |
 | `lesson-45-hashmap` | HashMap | 键值对、查找、删除、检查与遍历 |
 | `lesson-46-enums` | Enums | 固定常量、`valueOf()`、属性与 `switch` |
+| `lesson-47-threading` | Threading | `Runnable`、守护线程、并发输入与计时 |
 
 ## 运行方式
 
