@@ -51,6 +51,7 @@
 | `lesson-41-anonymous-class` | Anonymous Class | 一次性匿名子类与方法重写 |
 | `lesson-42-timer-and-timertask` | Timer & TimerTask | 延迟任务、周期任务与匿名任务类 |
 | `lesson-43-countdown-timer` | Countdown Timer | 用户输入、固定频率任务与倒计时 |
+| `lesson-44-generics` | Generics | 泛型类、泛型方法、类型限制与通配符 |
 
 ## 运行方式
 
