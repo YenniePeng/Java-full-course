@@ -53,6 +53,7 @@
 | `lesson-43-countdown-timer` | Countdown Timer | 用户输入、固定频率任务与倒计时 |
 | `lesson-44-generics` | Generics | 泛型类、泛型方法、类型限制与通配符 |
 | `lesson-45-hashmap` | HashMap | 键值对、查找、删除、检查与遍历 |
+| `lesson-46-enums` | Enums | 固定常量、`valueOf()`、属性与 `switch` |
 
 ## 运行方式
 
