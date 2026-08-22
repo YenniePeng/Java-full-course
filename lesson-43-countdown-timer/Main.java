@@ -28,7 +28,7 @@ public class Main {
                 System.out.println(count);
                 count--;
 
-                if (count == 0) {
+                if (count <= 0) {
                     System.out.println("Happy New Year!");
                     timer.cancel();
                 }
