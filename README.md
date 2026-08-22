@@ -50,6 +50,7 @@
 | `lesson-40-date-and-time` | Date & Time | 本地日期时间、UTC、格式化与时间比较 |
 | `lesson-41-anonymous-class` | Anonymous Class | 一次性匿名子类与方法重写 |
 | `lesson-42-timer-and-timertask` | Timer & TimerTask | 延迟任务、周期任务与匿名任务类 |
+| `lesson-43-countdown-timer` | Countdown Timer | 用户输入、固定频率任务与倒计时 |
 
 ## 运行方式
 
