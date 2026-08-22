@@ -55,6 +55,7 @@
 | `lesson-45-hashmap` | HashMap | 键值对、查找、删除、检查与遍历 |
 | `lesson-46-enums` | Enums | 固定常量、`valueOf()`、属性与 `switch` |
 | `lesson-47-threading` | Threading | `Runnable`、守护线程、并发输入与计时 |
+| `lesson-48-multithreading` | Multithreading | 多线程并发、`join()` 与中断处理 |
 
 ## 运行方式
 
